@@ -1,0 +1,21 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #profile {
+    margin-bottom: 20px;
+  }
+  
+  #profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  #form input, #form select, #form button {
+    margin-bottom: 10px;
+  }
+  
